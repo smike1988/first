@@ -1,1 +1,3 @@
-welcome to file
+FROM ubuntu
+MAINTAINER mike.com
+echo "welcome mike"
